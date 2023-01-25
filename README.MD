@@ -69,4 +69,4 @@ Finapred is provided “as is” without any warranties or guarantees of any kin
 We welcome contributions from anyone interested in helping improve Finapred! If you would like to contribute please fork this repository and submit a pull request with your changes for review by our team before merging into master branch. Please read our contributing guidelines before submitting your pull request: https://github.com/x-0D/finapred/contributing-guidelines -->
 
 ## License 
-Finapred is released under the MIT license which can be found in the LICENSE file in this repository: https://github.com/x-0D/finapred/LICENSE
+Finapred is released under the MIT license which can be found in the LICENSE file in this repository: https://github.com/x-0D/finapred/blob/master/LICENSE

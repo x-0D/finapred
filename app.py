@@ -133,4 +133,5 @@ def show_forecast(forecast, p, df_train, symbol):
         st.metric(label=label, value=value, delta=delta)
 
 
-streamlit_app()
+if __name__ == "__main__":
+    streamlit_app()
